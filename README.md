@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Streaming-URL-FInder
 ***Now you can find Media (Video) URL from any streaming site Not ott, I mean from any pirated, free sources, embended medias. This will be helpful if you're planning to build a site for freely streaming movies, like piracy. It Doesn't have CAptcha solver, so becareful if you're spamming.***
 
